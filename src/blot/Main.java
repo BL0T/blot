@@ -15,7 +15,6 @@ public class Main extends Application {
         Scene scene = new Scene(root, 300, 275);
         primaryStage.setScene(scene);
 
-        System.out.println("das");
         primaryStage.show();
     }
 
